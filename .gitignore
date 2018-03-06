@@ -35,3 +35,81 @@ Carthage/Build
 # `pod install` in .travis.yml
 #
 # Pods/
+Example/Podfile.lock
+Example/Pods/Local Podspecs/SwiftScraper.podspec.json
+Example/Pods/Local Podspecs/TestScrape.podspec.json
+Example/Pods/Manifest.lock
+Example/Pods/Observable-Swift/LICENSE
+Example/Pods/Observable-Swift/Observable-Swift/Event.swift
+Example/Pods/Observable-Swift/Observable-Swift/EventReference.swift
+Example/Pods/Observable-Swift/Observable-Swift/EventSubscription.swift
+Example/Pods/Observable-Swift/Observable-Swift/Observable.swift
+Example/Pods/Observable-Swift/Observable-Swift/ObservableChainingProxy.swift
+Example/Pods/Observable-Swift/Observable-Swift/ObservableProxy.swift
+Example/Pods/Observable-Swift/Observable-Swift/ObservableReference.swift
+Example/Pods/Observable-Swift/Observable-Swift/OwningEventReference.swift
+Example/Pods/Observable-Swift/Observable-Swift/Protocols.swift
+Example/Pods/Observable-Swift/Observable-Swift/TupleObservable.swift
+Example/Pods/Observable-Swift/README.md
+Example/Pods/Pods.xcodeproj/project.pbxproj
+Example/Pods/SwiftScraper/LICENSE
+Example/Pods/SwiftScraper/README.md
+Example/Pods/SwiftScraper/Resources/SwiftScraper.js
+Example/Pods/SwiftScraper/Sources/Browser.swift
+Example/Pods/SwiftScraper/Sources/JSON.swift
+Example/Pods/SwiftScraper/Sources/JavaScriptGenerator.swift
+Example/Pods/SwiftScraper/Sources/Result.swift
+Example/Pods/SwiftScraper/Sources/StepRunner.swift
+Example/Pods/SwiftScraper/Sources/Steps/AsyncScriptStep.swift
+Example/Pods/SwiftScraper/Sources/Steps/NavigableStep.swift
+Example/Pods/SwiftScraper/Sources/Steps/OpenPageStep.swift
+Example/Pods/SwiftScraper/Sources/Steps/PageChangeStep.swift
+Example/Pods/SwiftScraper/Sources/Steps/ProcessStep.swift
+Example/Pods/SwiftScraper/Sources/Steps/ScriptStep.swift
+Example/Pods/SwiftScraper/Sources/Steps/Step.swift
+Example/Pods/SwiftScraper/Sources/Steps/StepCompletionCallback.swift
+Example/Pods/SwiftScraper/Sources/Steps/StepFlowResult.swift
+Example/Pods/SwiftScraper/Sources/Steps/WaitForConditionStep.swift
+Example/Pods/SwiftScraper/Sources/Steps/WaitStep.swift
+Example/Pods/SwiftScraper/Sources/SwiftScraper.h
+Example/Pods/SwiftScraper/Sources/SwiftScraperError.swift
+Example/Pods/Target Support Files/Observable-Swift/Info.plist
+Example/Pods/Target Support Files/Observable-Swift/Observable-Swift-dummy.m
+Example/Pods/Target Support Files/Observable-Swift/Observable-Swift-prefix.pch
+Example/Pods/Target Support Files/Observable-Swift/Observable-Swift-umbrella.h
+Example/Pods/Target Support Files/Observable-Swift/Observable-Swift.modulemap
+Example/Pods/Target Support Files/Observable-Swift/Observable-Swift.xcconfig
+Example/Pods/Target Support Files/Pods-TestScrape_Example/Info.plist
+Example/Pods/Target Support Files/Pods-TestScrape_Example/Pods-TestScrape_Example-acknowledgements.markdown
+Example/Pods/Target Support Files/Pods-TestScrape_Example/Pods-TestScrape_Example-acknowledgements.plist
+Example/Pods/Target Support Files/Pods-TestScrape_Example/Pods-TestScrape_Example-dummy.m
+Example/Pods/Target Support Files/Pods-TestScrape_Example/Pods-TestScrape_Example-frameworks.sh
+Example/Pods/Target Support Files/Pods-TestScrape_Example/Pods-TestScrape_Example-resources.sh
+Example/Pods/Target Support Files/Pods-TestScrape_Example/Pods-TestScrape_Example-umbrella.h
+Example/Pods/Target Support Files/Pods-TestScrape_Example/Pods-TestScrape_Example.debug.xcconfig
+Example/Pods/Target Support Files/Pods-TestScrape_Example/Pods-TestScrape_Example.modulemap
+Example/Pods/Target Support Files/Pods-TestScrape_Example/Pods-TestScrape_Example.release.xcconfig
+Example/Pods/Target Support Files/Pods-TestScrape_Tests/Info.plist
+Example/Pods/Target Support Files/Pods-TestScrape_Tests/Pods-TestScrape_Tests-acknowledgements.markdown
+Example/Pods/Target Support Files/Pods-TestScrape_Tests/Pods-TestScrape_Tests-acknowledgements.plist
+Example/Pods/Target Support Files/Pods-TestScrape_Tests/Pods-TestScrape_Tests-dummy.m
+Example/Pods/Target Support Files/Pods-TestScrape_Tests/Pods-TestScrape_Tests-frameworks.sh
+Example/Pods/Target Support Files/Pods-TestScrape_Tests/Pods-TestScrape_Tests-resources.sh
+Example/Pods/Target Support Files/Pods-TestScrape_Tests/Pods-TestScrape_Tests-umbrella.h
+Example/Pods/Target Support Files/Pods-TestScrape_Tests/Pods-TestScrape_Tests.debug.xcconfig
+Example/Pods/Target Support Files/Pods-TestScrape_Tests/Pods-TestScrape_Tests.modulemap
+Example/Pods/Target Support Files/Pods-TestScrape_Tests/Pods-TestScrape_Tests.release.xcconfig
+Example/Pods/Target Support Files/SwiftScraper/Info.plist
+Example/Pods/Target Support Files/SwiftScraper/ResourceBundle-SwiftScraper-Info.plist
+Example/Pods/Target Support Files/SwiftScraper/SwiftScraper-dummy.m
+Example/Pods/Target Support Files/SwiftScraper/SwiftScraper-prefix.pch
+Example/Pods/Target Support Files/SwiftScraper/SwiftScraper-umbrella.h
+Example/Pods/Target Support Files/SwiftScraper/SwiftScraper.modulemap
+Example/Pods/Target Support Files/SwiftScraper/SwiftScraper.xcconfig
+Example/Pods/Target Support Files/TestScrape/Info.plist
+Example/Pods/Target Support Files/TestScrape/TestScrape-dummy.m
+Example/Pods/Target Support Files/TestScrape/TestScrape-prefix.pch
+Example/Pods/Target Support Files/TestScrape/TestScrape-umbrella.h
+Example/Pods/Target Support Files/TestScrape/TestScrape.modulemap
+Example/Pods/Target Support Files/TestScrape/TestScrape.xcconfig
+Example/TestScrape.xcworkspace/contents.xcworkspacedata
