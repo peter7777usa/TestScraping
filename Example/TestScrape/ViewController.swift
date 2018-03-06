@@ -19,8 +19,13 @@ class ViewController: UIViewController {
         let step1 = OpenPageStep(path: "http://www.chase.com")
         
         let step2 = PageChangeStep(
-            functionName: "performSignin",
+            functionName: "goToSignin",
             params: "")
+        
+        let step3 = PageChangeStep(
+            functionName: "performLogin",
+            params: "")
+        
         stepRunner = StepRunner(moduleName: "ChaseScraping", steps: [step1, step2])
         stepRunner.insertWebViewIntoView(parent: view)
         stepRunner.state.afterChange.add { change in

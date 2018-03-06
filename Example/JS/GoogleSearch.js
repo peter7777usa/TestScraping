@@ -3,13 +3,8 @@ var GoogleSearch = (function () {
                     return document.title == "Google";
                     }
                     function performSearch(searchText) {
-                    //document.querySelector('input[type="text"], input[type="Search"]').value = searchText;
-                    var e = document.getElementById('_SJh').
-                    getElementsByTagName('a')[1];
-                    e.click();
-                    var theText = e.innerHTML;
-                    console.log(theText);
-                    return theText;
+                    document.querySelector('input[type="text"], input[type="Search"]').value = searchText;
+                    document.forms[0].submit();
                     }
                     function assertSearchResultTitle() {
                     return document.title == "SwiftScraper iOS - Google Search";
@@ -36,6 +31,4 @@ var GoogleSearch = (function () {
                     scrollAndCountImages: scrollAndCountImages
                     };
                     })()
-
-//<a href="https://www.google.com/webhp?output=search&amp;tbm=isch&amp;tbo=u">Images</a>
 
