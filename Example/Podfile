@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'TestScrape_Example' do
   pod 'TestScrape', :path => '../'
+  pod "SwiftScraper", git: "https://github.com/cweatureapps/SwiftScraper.git"
 
   target 'TestScrape_Tests' do
     inherit! :search_paths
